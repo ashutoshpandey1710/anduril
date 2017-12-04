@@ -7,7 +7,7 @@ __pycache__/
 .idea/
 
 #Virtual Environment
-./andurilenv
+flaskenv/
 
 # C extensions
 *.so
