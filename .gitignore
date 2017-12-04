@@ -6,6 +6,9 @@ __pycache__/
 # IDE metadata
 .idea/
 
+#Virtual Environment
+./andurilenv
+
 # C extensions
 *.so
 
